@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.test.custom.customtaglayout.MainActivity">
+
+    <com.test.custom.customtaglayout.TagLayout
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimary"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="111"
+            style="@style/testStyle"
+            android:layout_height="wrap_content"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="2222222222"
+            style="@style/testStyle"
+            android:layout_height="wrap_content"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            style="@style/testStyle"
+            android:text="33333"
+            android:layout_height="wrap_content"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="4444444444"
+            style="@style/testStyle"
+            android:layout_height="wrap_content"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            style="@style/testStyle"
+            android:text="5555555555"
+            android:layout_height="wrap_content"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            style="@style/testStyle"
+            android:text="6666666666"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            style="@style/testStyle"
+            android:text="7777777777"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            style="@style/testStyle"
+            android:text="8888888888"
+            android:layout_height="90dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            style="@style/testStyle"
+            android:text="9999999999"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            style="@style/testStyle"
+            android:text="1212121212"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            style="@style/testStyle"
+            android:text="1313131313"
+            android:layout_height="wrap_content"/>
+
+
+
+
+
+
+    </com.test.custom.customtaglayout.TagLayout>
+</android.support.constraint.ConstraintLayout>
